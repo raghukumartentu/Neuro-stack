@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { Github, ExternalLink } from "lucide-react";
 import { Link } from "react-router-dom";
 import Zbrain from "../assets/Zbrain_project.png";
-import Pollpapa from "../assets/pollpapa_project.png";
+import Pollpapa from "../assets/Pollpapa_project.png";
 import Gettr from "../assets/Gettr_project.png";
 import Mooday from "../assets/Mooday_project.png";
 import Atlasclinic from "../assets/Atlasclinic_project.png";
